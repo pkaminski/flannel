@@ -1,5 +1,7 @@
 # flannel
 
+A normal edit in a normal file.
+
 ![flannel Logo](logos/flannel-horizontal-color.png)
 
 [![Build Status](https://travis-ci.org/coreos/flannel.png?branch=master)](https://travis-ci.org/coreos/flannel)
