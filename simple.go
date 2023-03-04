@@ -9,4 +9,5 @@ func upsertRootTaskMetadata(db orm.DB, rootTaskMetadata RootTaskMetadata) error 
 		Set("platform_trace_data = EXCLUDED.platform_trace_data").
 		Set("platform_trace_data = EXCLUDED.platform_trace_data").
 		Set("platform_trace_data = EXCLUDED.platform_trace_data");
+	hello("world");
 }
